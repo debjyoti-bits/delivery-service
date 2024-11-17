@@ -1,0 +1,1 @@
+web: java -Dserver.port=$PORT -jar target/delivery-service-1.0-SNAPSHOT.jar
